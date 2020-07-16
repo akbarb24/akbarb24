@@ -5,7 +5,7 @@
 </p>
 
 ```
-🔭 I’m currently using Java for food, and Ruby for fun.  
+🔭 I’m currently using Java for having food, and Ruby for having fun.  
 🌱 I’m currently learning how to quit from VIM 🙄
 ```
 
