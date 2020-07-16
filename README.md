@@ -1,11 +1,13 @@
 ## Hello There 👋
 
 <p align="center">
-  <img src="https://media.giphy.com/media/13HBDT4QSTpveU/giphy.gi" />
+  <img src="https://media.giphy.com/media/13HBDT4QSTpveU/giphy.gif" width="240" height="180"/>
 </p>
 
-🔭 I’m currently speaking using Java for food, and Ruby for fun.  
+```
+🔭 I’m currently using Java for food, and Ruby for fun.  
 🌱 I’m currently learning how to quit from VIM 🙄
+```
 
 <!--
 **akbarb24/akbarb24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
