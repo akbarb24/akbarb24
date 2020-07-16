@@ -1,6 +1,6 @@
 ## Hello There 👋
 
-![Alt Text](https://media.giphy.com/media/13HBDT4QSTpveU/giphy.gif)
+<img align="center" src="https://media.giphy.com/media/13HBDT4QSTpveU/giphy.gif" width="240" height="180"/>
 
 🔭 I’m currently speaking using Java for food, and Ruby for fun.  
 🌱 I’m currently learning how to quit from VIM 🙄
