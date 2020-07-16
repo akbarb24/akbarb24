@@ -1,4 +1,9 @@
-### Hi there 👋
+## Hello There 👋
+
+![Alt Text](https://media.giphy.com/media/13HBDT4QSTpveU/giphy.gif)
+
+🔭 I’m currently speaking using Java for food, and Ruby for fun.  
+🌱 I’m currently learning how to quit from VIM 🙄
 
 <!--
 **akbarb24/akbarb24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
