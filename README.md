@@ -4,11 +4,6 @@
   <img src="https://media.giphy.com/media/13HBDT4QSTpveU/giphy.gif" width="240" height="180"/>
 </p>
 
-```
-🔭 I’m using Java for having food, and Ruby for having fun.  
-🌱 Currently I'm still learning how to quit from VIM 🙄
-```
-
 <!--
 **akbarb24/akbarb24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
