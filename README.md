@@ -1,8 +1,8 @@
-## Hello There 👋
-
-<p align="center">
-  <img src="https://media.giphy.com/media/13HBDT4QSTpveU/giphy.gif" width="240" height="180"/>
-</p>
+<div align="center">
+  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="50" />
+  <br/>
+  <em>Loading personality...</em>
+</div>
 
 <!--
 **akbarb24/akbarb24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
