@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="50" />
+  <img src="https://github.com/SamHerbert/SVG-Loaders/raw/master/svg-loaders/three-dots.svg" width="60" />
   <br/>
   <em>Loading personality...</em>
 </div>
